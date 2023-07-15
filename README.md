@@ -25,8 +25,6 @@ When you run the application, you can see all students on the main page. You can
 
 **Client:** Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf and Bootstrap
 
-**Server:** apache
-
   
 ## Screenshots
 
