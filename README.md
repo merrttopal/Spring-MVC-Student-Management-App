@@ -1,7 +1,7 @@
 
 # Student Manage App
 
-This project is a student management application. This application provides functionality to add, list, update and delete students using Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf and Bootstrap technologies. It also provides the possibility to filter students by class and grade ranges.
+This project is a student management application. This application provides functionality to add, list, update and delete students using Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf and Bootstrap technologies. 
 
 ## Follow the steps below to run the project:
 
